@@ -1,0 +1,17 @@
+{
+	id: "7286c541-f68f-3b6e-b4ff-d3494d2d28df"
+	type: "player"
+	player_name: "KhikamAsli"
+	ranks: {
+		7286c541-f68f-3b6e-b4ff-d3494d2d28df: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KhikamAsli"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

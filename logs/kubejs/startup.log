@@ -1,0 +1,18 @@
+[11:43:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[11:43:13] [INIT] Loaded plugins:
+[11:43:13] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[11:43:13] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[11:43:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[11:43:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[11:43:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[11:43:13] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[11:43:13] [INFO] Loaded script startup_scripts:ram.js in 0.038 s
+[11:43:13] [INFO] Loaded script startup_scripts:amd_drivers.js in 0.001 s
+[11:43:13] [INFO] Loaded script startup_scripts:lyn.js in 0.001 s
+[11:43:13] [INFO] Loaded script startup_scripts:shiitake_mushroom_soup.js in 0.001 s
+[11:43:13] [INFO] Loaded script startup_scripts:obsidian_template.js in 0.0 s
+[11:43:13] [INFO] Loaded script startup_scripts:homestead.js in 0.003 s
+[11:43:13] [INFO] Loaded script startup_scripts:obsidian_tool.js in 0.001 s
+[11:43:13] [INFO] Loaded script startup_scripts:mortar.js in 0.0 s
+[11:43:13] [INFO] Loaded script startup_scripts:nvidia_graphics_card.js in 0.001 s
+[11:43:13] [INFO] Loaded 9/9 KubeJS startup scripts in 0.242 s with 0 errors and 0 warnings

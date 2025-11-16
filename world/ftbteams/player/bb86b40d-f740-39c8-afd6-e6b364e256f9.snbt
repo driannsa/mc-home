@@ -1,0 +1,15 @@
+{
+	id: "bb86b40d-f740-39c8-afd6-e6b364e256f9"
+	type: "player"
+	player_name: "ShenZ"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ShenZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597BFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

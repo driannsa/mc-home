@@ -1,0 +1,893 @@
+[11:43:00.532][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Fabric
+[11:43:00.538][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[11:43:05.954][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[11:43:05.960][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[11:43:06.249][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[11:43:06.249][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.59'
+[11:43:06.250][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-2.4.1+refabricated'
+[11:43:06.487][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[11:43:06.691][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[11:43:06.716][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[11:43:07.031][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[11:43:25.512][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[11:43:25.545][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[11:43:25.565][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[11:43:25.578][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[11:43:28.583][INFO][CraftTweaker]: CraftTweaker reload starting!
+[11:43:28.598][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[11:43:28.618][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[11:43:28.970][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [farmersdelight, mods, crafttweaker, expansions]
+[11:43:28.972][INFO][CraftTweaker-ZenCode]: Loading file 'mods/AlcoCraft+/keg_test.zs' with priority 0
+[11:43:28.977][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/appletrinketfix.zs' with priority 0
+[11:43:28.978][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/bater_wucket.zs' with priority 0
+[11:43:28.980][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/butterfly_wings.zs' with priority 0
+[11:43:28.981][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/explorers_compass.zs' with priority 0
+[11:43:28.981][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/farmland_fix.zs' with priority 0
+[11:43:28.984][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/flour.zs' with priority 0
+[11:43:28.985][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/hammer_changes.zs' with priority 0
+[11:43:28.986][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/loot_table_fixes.zs' with priority 0
+[11:43:28.986][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/mod_compat.zs' with priority 0
+[11:43:28.989][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/obsidian_tool_tagging.zs' with priority 0
+[11:43:29.007][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/questbook_recipefix.zs' with priority 0
+[11:43:29.008][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/remove_prismarite_cluster_trim.zs' with priority 0
+[11:43:29.008][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/rope_arrow.zs' with priority 0
+[11:43:29.009][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/stack_upgrade_balance.zs' with priority 0
+[11:43:29.011][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/stone.zs' with priority 0
+[11:43:29.015][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Compat/via_romana.zs' with priority 0
+[11:43:29.018][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/coin_smelting.zs' with priority 0
+[11:43:29.019][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/create_milk.zs' with priority 0
+[11:43:29.021][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/ore_processing/main_processing.zs' with priority 0
+[11:43:29.023][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/ore_processing/silver_additions.zs' with priority 0
+[11:43:29.023][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/peaceful_blaze_burner.zs' with priority 0
+[11:43:29.023][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_compacting.zs' with priority 0
+[11:43:29.024][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_crushing.zs' with priority 0
+[11:43:29.025][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_deploying.zs' with priority 0
+[11:43:29.025][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_haunting.zs' with priority 0
+[11:43:29.026][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_mixing.zs' with priority 0
+[11:43:29.027][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_pressing.zs' with priority 0
+[11:43:29.028][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/renewables_splashing.zs' with priority 0
+[11:43:29.028][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/renewables/sandpaper_polishing.zs' with priority 0
+[11:43:29.028][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Create/vault.zs' with priority 0
+[11:43:29.029][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/amd_drivers.zs' with priority 0
+[11:43:29.029][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/custom_smithing.zs' with priority 0
+[11:43:29.032][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/elytra.zs' with priority 0
+[11:43:29.037][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/logo.zs' with priority 0
+[11:43:29.037][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/lyn.zs' with priority 0
+[11:43:29.037][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/mama.zs' with priority 0
+[11:43:29.037][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/nametag.zs' with priority 0
+[11:43:29.037][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/nvidia_graphics_card.zs' with priority 0
+[11:43:29.037][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/plushies.zs' with priority 0
+[11:43:29.045][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/ram.zs' with priority 0
+[11:43:29.045][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/saddle.zs' with priority 0
+[11:43:29.046][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/shiitake_mushroom_soup.zs' with priority 0
+[11:43:29.046][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/template.zs' with priority 0
+[11:43:29.046][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Custom/tuff.zs' with priority 0
+[11:43:29.047][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Mythic Upgrades/armor_attribute_buff.zs' with priority 0
+[11:43:29.055][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Mythic Upgrades/armor_crafting.zs' with priority 0
+[11:43:29.058][INFO][CraftTweaker-ZenCode]: Loading file 'mods/Spelunkery/ironpickonastick.zs' with priority 0
+[11:43:29.058][INFO][CraftTweaker-ZenCode]: Loading file 'mods/[Let's Do] Brewery/hops_based_beers.zs' with priority 0
+[11:43:29.260][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alcocraftplus:keg>'
+[11:43:29.282][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:homestead.keg' that outputs: '<item:alcocraftplus:keg>'
+[11:43:29.283][INFO][CraftTweaker]: Registering new items tag with name <tag:items:c:sunflowers>
+[11:43:29.285][INFO][CraftTweaker]: Adding: [spawn:sunflower] to tag: <tag:items:c:sunflowers>
+[11:43:29.286][INFO][CraftTweaker]: Adding: [minecraft:sunflower] to tag: <tag:items:c:sunflowers>
+[11:43:29.287][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:sunflower_convert' that outputs: '<item:minecraft:sunflower>'
+[11:43:29.287][INFO][CraftTweaker]: Removing: [minecraft:apple] from tag: <tag:items:trinkets:head/face>
+[11:43:29.288][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:farm_and_charm:water_bottles>
+[11:43:29.288][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:farm_and_charm:water_bottles>
+[11:43:29.288][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:c:water_bottles>
+[11:43:29.289][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:meadow:water_bottles>
+[11:43:29.289][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:meadow:large_water_fill>
+[11:43:29.289][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:c:water_buckets>
+[11:43:29.290][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:candlelight:water_bottles>
+[11:43:29.290][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:herbalbrews:large_water_fill>
+[11:43:29.290][INFO][CraftTweaker]: Adding: [things:bater_wucket] to tag: <tag:items:forge:water_bottles>
+[11:43:29.291][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:clutter:butterfly_wings>'
+[11:43:29.299][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:butterfly_wings' that outputs: '<item:clutter:butterfly_wings>'
+[11:43:29.299][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:explorerscompass:explorerscompass>'
+[11:43:29.307][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:explorers_compass' that outputs: '<item:explorerscompass:explorerscompass>'
+[11:43:29.307][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_farmland] to tag: <tag:items:c:farmland>
+[11:43:29.308][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_farmland] to tag: <tag:items:c:farmlands>
+[11:43:29.308][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_farmland] to tag: <tag:blocks:c:farmland>
+[11:43:29.309][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_farmland] to tag: <tag:blocks:c:farmlands>
+[11:43:29.309][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_farmland] to tag: <tag:items:c:farmland>
+[11:43:29.309][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_farmland] to tag: <tag:items:c:farmlands>
+[11:43:29.310][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_farmland] to tag: <tag:blocks:c:farmland>
+[11:43:29.310][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_farmland] to tag: <tag:blocks:c:farmlands>
+[11:43:29.310][INFO][CraftTweaker]: Adding: [farmersdelight:rich_soil_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.311][INFO][CraftTweaker]: Adding: [regions_unexplored:peat_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.311][INFO][CraftTweaker]: Adding: [regions_unexplored:silt_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.311][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.312][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.312][INFO][CraftTweaker]: Adding: [regions_unexplored:peat_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.312][INFO][CraftTweaker]: Adding: [regions_unexplored:silt_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.312][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.313][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_farmland] to tag: <tag:blocks:farm_and_charm:farmland>
+[11:43:29.313][INFO][CraftTweaker]: Adding: [farm_and_charm:flour] to tag: <tag:items:c:wheat_flour>
+[11:43:29.313][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:create:dough>'
+[11:43:29.318][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dough' that outputs: '<item:create:dough>'
+[11:43:29.319][INFO][CraftTweaker]: Registering new items tag with name <tag:items:homestead:mortal_and_pestles>
+[11:43:29.319][INFO][CraftTweaker]: Adding: [hexalia:mortar_and_pestle] to tag: <tag:items:homestead:mortal_and_pestles>
+[11:43:29.319][INFO][CraftTweaker]: Adding: [expandeddelight:mortar_and_pestle_item] to tag: <tag:items:homestead:mortal_and_pestles>
+[11:43:29.320][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:flour_into_wheat_flour' that outputs: '<item:create:wheat_flour>'
+[11:43:29.320][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:wheat_flour_into_flour' that outputs: '<item:farm_and_charm:flour>'
+[11:43:29.321][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:justhammers:impact_core>'
+[11:43:29.325][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:impact_core' that outputs: '<item:justhammers:impact_core>'
+[11:43:29.328][INFO][CraftTweaker]: Registering loot modifier with name 'crafttweaker:bracket_drop'
+[11:43:29.328][INFO][CraftTweaker]: Adding: [farm_and_charm:tomato] to tag: <tag:items:c:crops/tomato>
+[11:43:29.329][INFO][CraftTweaker]: Adding: [farmersdelight:tomato] to tag: <tag:items:c:crops>
+[11:43:29.329][INFO][CraftTweaker]: Registering new items tag with name <tag:items:c:tomato>
+[11:43:29.329][INFO][CraftTweaker]: Adding: [farmersdelight:tomato] to tag: <tag:items:c:tomato>
+[11:43:29.330][INFO][CraftTweaker]: Adding: [clutter:hops] to tag: <tag:items:c:crops/hops>
+[11:43:29.330][INFO][CraftTweaker]: Adding: [alcocraftplus:hop] to tag: <tag:items:c:crops/hops>
+[11:43:29.330][INFO][CraftTweaker]: Adding: [farm_and_charm:onion] to tag: <tag:items:c:crops/onion>
+[11:43:29.331][INFO][CraftTweaker]: Adding: [farm_and_charm:lettuce] to tag: <tag:items:c:salad_ingredients>
+[11:43:29.331][INFO][CraftTweaker]: Adding: [duckling:duck_egg] to tag: <tag:items:c:eggs>
+[11:43:29.331][INFO][CraftTweaker]: Adding: [duckling:duck_egg] to tag: <tag:items:meadow:egg>
+[11:43:29.331][INFO][CraftTweaker]: Adding: [clutter:kiwi_bird_egg] to tag: <tag:items:c:eggs>
+[11:43:29.332][INFO][CraftTweaker]: Adding: [clutter:kiwi_bird_egg] to tag: <tag:items:meadow:egg>
+[11:43:29.332][INFO][CraftTweaker]: Adding: [clutter:emperor_penguin_egg] to tag: <tag:items:c:eggs>
+[11:43:29.332][INFO][CraftTweaker]: Adding: [clutter:emperor_penguin_egg] to tag: <tag:items:meadow:egg>
+[11:43:29.333][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:c:swords>
+[11:43:29.333][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:tools>
+[11:43:29.333][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:swords>
+[11:43:29.334][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:c:tools>
+[11:43:29.334][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.334][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[11:43:29.334][INFO][CraftTweaker]: Registering new items tag with name <tag:items:ps-keep:all>
+[11:43:29.335][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:ps-keep:all>
+[11:43:29.335][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[11:43:29.335][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:c:axes>
+[11:43:29.335][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:tools>
+[11:43:29.336][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:axes>
+[11:43:29.336][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:c:tools>
+[11:43:29.336][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.336][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[11:43:29.336][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:ps-keep:all>
+[11:43:29.337][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:incendium:tools>
+[11:43:29.337][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[11:43:29.337][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:c:shovels>
+[11:43:29.337][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:tools>
+[11:43:29.337][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:shovels>
+[11:43:29.338][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:c:tools>
+[11:43:29.338][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.338][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[11:43:29.338][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:ps-keep:all>
+[11:43:29.338][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:incendium:tools>
+[11:43:29.338][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:c:pickaxes>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:tools>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:pickaxes>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:c:tools>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[11:43:29.339][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:ps-keep:all>
+[11:43:29.340][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:incendium:tools>
+[11:43:29.340][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[11:43:29.340][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:cluster_max_harvestables>
+[11:43:29.340][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:c:hoes>
+[11:43:29.340][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:tools>
+[11:43:29.340][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:hoes>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:c:tools>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:ps-keep:all>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:incendium:tools>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[11:43:29.341][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:armors>
+[11:43:29.342][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.342][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:ps-keep:all>
+[11:43:29.342][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:minecraft:trimmable_armor>
+[11:43:29.342][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.342][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.342][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:incendium:armor>
+[11:43:29.343][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.343][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:armor>
+[11:43:29.343][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.343][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.343][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:ps-keep:all>
+[11:43:29.343][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:minecraft:trimmable_armor>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:incendium:armor>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:armor>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:armors>
+[11:43:29.344][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.345][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:ps-keep:all>
+[11:43:29.345][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:minecraft:trimmable_armor>
+[11:43:29.345][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.345][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.345][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:incendium:armor>
+[11:43:29.345][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.346][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:armor>
+[11:43:29.346][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:armors>
+[11:43:29.346][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.346][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:ps-keep:all>
+[11:43:29.346][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:minecraft:trimmable_armor>
+[11:43:29.346][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:incendium:tools_armor>
+[11:43:29.347][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.347][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:incendium:armor>
+[11:43:29.347][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:boots>
+[11:43:29.347][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:armor>
+[11:43:29.347][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_horse_armor] to tag: <tag:items:ps-keep:all>
+[11:43:29.348][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:questbook' that outputs: '<item:ftbquests:book>'
+[11:43:29.348][INFO][CraftTweaker]: Removing: [regions_unexplored:prismarite_cluster] from tag: <tag:items:minecraft:trim_materials>
+[11:43:29.349][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rope_arrow' that outputs: '<item:supplementaries:rope_arrow>.withDamage(28)'
+[11:43:29.349][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedbackpacks:stack_upgrade_starter_tier>'
+[11:43:29.353][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:stack_upgrade_starter' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_starter_tier>'
+[11:43:29.353][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedbackpacks:stack_upgrade_tier_1>'
+[11:43:29.354][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:stack_upgrade_iron' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_1>'
+[11:43:29.354][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedbackpacks:stack_upgrade_tier_2>'
+[11:43:29.356][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:stack_upgrade_gold' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_2>'
+[11:43:29.356][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedbackpacks:stack_upgrade_tier_3>'
+[11:43:29.357][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:stack_upgrade_diamond' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_3>'
+[11:43:29.357][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedbackpacks:stack_upgrade_tier_4>'
+[11:43:29.358][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:stack_upgrade_netherite' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_4>'
+[11:43:29.358][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedbackpacks:stack_upgrade_omega_tier>'
+[11:43:29.359][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:back_upgrade_omega' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_omega_tier>'
+[11:43:29.359][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedstorage:stack_upgrade_tier_1_plus>'
+[11:43:29.361][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chest_upgrade_1_plus' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_1_plus>'
+[11:43:29.361][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_1_plus' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_1_plus>'
+[11:43:29.361][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_1_plus_back' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_starter_tier>'
+[11:43:29.361][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedstorage:stack_upgrade_tier_2>'
+[11:43:29.362][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chest_upgrade_2' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_2>'
+[11:43:29.362][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_2' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_2>'
+[11:43:29.362][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_2_back' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_1>'
+[11:43:29.362][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedstorage:stack_upgrade_tier_3>'
+[11:43:29.364][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chest_upgrade_3' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_3>'
+[11:43:29.364][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_3' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_3>'
+[11:43:29.364][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_3_back' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_2>'
+[11:43:29.364][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedstorage:stack_upgrade_tier_4>'
+[11:43:29.365][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chest_upgrade_4' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_4>'
+[11:43:29.365][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_4' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_4>'
+[11:43:29.365][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_4_back' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_3>'
+[11:43:29.365][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedstorage:stack_upgrade_tier_5>'
+[11:43:29.367][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chest_upgrade_5' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_5>'
+[11:43:29.367][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_5' that outputs: '<item:sophisticatedstorage:stack_upgrade_tier_5>'
+[11:43:29.367][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_5_back' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_tier_4>'
+[11:43:29.367][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:sophisticatedstorage:stack_upgrade_omega_tier>'
+[11:43:29.368][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:chest_upgrade_omega' that outputs: '<item:sophisticatedstorage:stack_upgrade_omega_tier>'
+[11:43:29.368][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_omega' that outputs: '<item:sophisticatedstorage:stack_upgrade_omega_tier>'
+[11:43:29.368][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:conversion_omega_back' that outputs: '<item:sophisticatedbackpacks:stack_upgrade_omega_tier>'
+[11:43:29.369][INFO][CraftTweaker]: Adding: [biomeswevegone:rocky_stone] to tag: <tag:items:minecraft:stone_tool_materials>
+[11:43:29.369][INFO][CraftTweaker]: Adding: [biomeswevegone:rocky_stone] to tag: <tag:items:c:stone>
+[11:43:29.369][INFO][CraftTweaker]: Adding: [biomeswevegone:mossy_stone] to tag: <tag:items:c:stone>
+[11:43:29.369][INFO][CraftTweaker]: Adding: [meadow:cobbled_limestone] to tag: <tag:items:c:stone>
+[11:43:29.370][INFO][CraftTweaker]: Adding: [meadow:limestone] to tag: <tag:items:c:stone>
+[11:43:29.370][INFO][CraftTweaker]: Adding: [minecraft:cobblestone] to tag: <tag:items:c:stone>
+[11:43:29.370][INFO][CraftTweaker]: Adding: [meadow:mossy_cobbled_limestone] to tag: <tag:items:c:stone>
+[11:43:29.371][INFO][CraftTweaker]: Adding: [biomeswevegone:rocky_stone] to tag: <tag:items:c:stones>
+[11:43:29.371][INFO][CraftTweaker]: Adding: [biomeswevegone:mossy_stone] to tag: <tag:items:c:stones>
+[11:43:29.371][INFO][CraftTweaker]: Adding: [meadow:cobbled_limestone] to tag: <tag:items:c:stones>
+[11:43:29.371][INFO][CraftTweaker]: Adding: [meadow:limestone] to tag: <tag:items:c:stones>
+[11:43:29.372][INFO][CraftTweaker]: Adding: [minecraft:cobblestone] to tag: <tag:items:c:stones>
+[11:43:29.372][INFO][CraftTweaker]: Adding: [meadow:mossy_cobbled_limestone] to tag: <tag:items:c:stones>
+[11:43:29.372][INFO][CraftTweaker]: Adding: [biomeswevegone:sandy_dirt_path] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.373][INFO][CraftTweaker]: Adding: [biomeswevegone:lush_dirt_path] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.373][INFO][CraftTweaker]: Adding: [mcwpaths:podzol_path_block] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.373][INFO][CraftTweaker]: Adding: [mcwpaths:dirt_path_block] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.373][INFO][CraftTweaker]: Adding: [mcwpaths:gravel_path_block] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.373][INFO][CraftTweaker]: Adding: [mcwpaths:sand_path_block] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.373][INFO][CraftTweaker]: Adding: [mcwpaths:red_sand_path_block] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.374][INFO][CraftTweaker]: Adding: [regions_unexplored:peat_dirt_path] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.374][INFO][CraftTweaker]: Adding: [regions_unexplored:silt_dirt_path] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.374][INFO][CraftTweaker]: Adding: [vinery:coarse_dirt_slab] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.374][INFO][CraftTweaker]: Adding: [vinery:dirt_slab] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.374][INFO][CraftTweaker]: Adding: [vinery:grass_slab] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.374][INFO][CraftTweaker]: Adding: [vinery:dirt_path_slab] to tag: <tag:blocks:via_romana:path_block>
+[11:43:29.375][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_netherite_coin' that outputs: '<item:createdeco:netherite_nugget>'
+[11:43:29.375][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_netherite_coinstack' that outputs: '<item:createdeco:netherite_nugget> * 4'
+[11:43:29.375][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_gold_coin' that outputs: '<item:minecraft:gold_nugget>'
+[11:43:29.375][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_gold_coinstack' that outputs: '<item:minecraft:gold_nugget> * 4'
+[11:43:29.375][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_clutter_gold_coin' that outputs: '<item:minecraft:gold_nugget>'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_clutter_gold_coin_stack' that outputs: '<item:minecraft:gold_nugget> * 8'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_brass_coin' that outputs: '<item:create:brass_nugget>'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_brass_coinstack' that outputs: '<item:create:brass_nugget> * 4'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_iron_coin' that outputs: '<item:minecraft:iron_nugget>'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_iron_coinstack' that outputs: '<item:minecraft:iron_nugget> * 4'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_industrial_iron_coin' that outputs: '<item:createdeco:industrial_iron_nugget>'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_industrial_iron_coinstack' that outputs: '<item:createdeco:industrial_iron_nugget> * 4'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_clutter_copper_coin' that outputs: '<item:create:copper_nugget>'
+[11:43:29.376][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_clutter_copper_coin_stack' that outputs: '<item:create:copper_nugget> * 8'
+[11:43:29.377][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_createdeco_copper_coin' that outputs: '<item:create:copper_nugget>'
+[11:43:29.377][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_createdeco_copper_coinstack' that outputs: '<item:create:copper_nugget> * 4'
+[11:43:29.377][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_zinc_coin' that outputs: '<item:create:zinc_nugget>'
+[11:43:29.377][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_zinc_coinstack' that outputs: '<item:create:zinc_nugget> * 4'
+[11:43:29.377][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_silver_coin' that outputs: '<item:clutter:silver_nugget>'
+[11:43:29.377][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:smelt_silver_coin_stack' that outputs: '<item:clutter:silver_nugget> * 8'
+[11:43:29.380][INFO][CraftTweaker]: Adding 'create:emptying' recipe, with name: 'crafttweaker:wooden_milk_empty_compat' that outputs: '<item:meadow:wooden_bucket>'
+[11:43:29.380][INFO][CraftTweaker]: Adding 'create:filling' recipe, with name: 'crafttweaker:wooden_milk_fill_compat' that outputs: '<item:meadow:wooden_milk_bucket>'
+[11:43:29.381][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[create:crushing/raw_iron]'
+[11:43:29.381][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[create:crushing/raw_gold]'
+[11:43:29.381][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[create:crushing/raw_copper]'
+[11:43:29.382][INFO][CraftTweaker]: Removing 'create:crushing' recipe(s) with name(s): '[create:crushing/raw_zinc]'
+[11:43:29.382][INFO][CraftTweaker]: Removing 'create:pressing' recipe(s) with name(s): '[createdeco:pressing/netherite_sheet]'
+[11:43:29.382][INFO][CraftTweaker]: Removing 'create:milling' recipe(s) with name(s): '[create:milling/wheat]'
+[11:43:29.382][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:raw_iron_crushing' that outputs: '<item:create:crushed_raw_iron>'
+[11:43:29.382][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:raw_gold_crushing' that outputs: '<item:create:crushed_raw_gold>'
+[11:43:29.383][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:raw_copper_crushing' that outputs: '<item:create:crushed_raw_copper>'
+[11:43:29.383][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:raw_zinc_crushing' that outputs: '<item:create:crushed_raw_zinc>'
+[11:43:29.383][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:raw_silver_crushing' that outputs: '<item:create:crushed_raw_silver>'
+[11:43:29.383][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:ancient_debris_processing_crushing' that outputs: '<item:minecraft:netherite_scrap> * 2'
+[11:43:29.384][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:netherite_sheet_processing_compacting' that outputs: '<item:createdeco:netherite_sheet> * 2'
+[11:43:29.384][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:netherite_processing_compacting' that outputs: '<item:minecraft:netherite_ingot>'
+[11:43:29.384][INFO][CraftTweaker]: Adding 'minecraft:blasting' recipe, with name: 'crafttweaker:crushed_silver_blasting' that outputs: '<item:clutter:silver_ingot>'
+[11:43:29.384][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:crushed_silver_smelting' that outputs: '<item:clutter:silver_ingot>'
+[11:43:29.385][INFO][CraftTweaker]: Adding 'create:splashing' recipe, with name: 'crafttweaker:crushed_silver_washing' that outputs: '<item:clutter:silver_nugget> * 9'
+[11:43:29.385][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:blaze_burner' that outputs: '<item:create:blaze_burner>'
+[11:43:29.385][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:coal_ore_compacting' that outputs: '<item:minecraft:coal_ore> * 2'
+[11:43:29.386][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:coal_to_diamond_compacting' that outputs: '<item:minecraft:diamond>'
+[11:43:29.386][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:ancient_debris_renewable_compacting' that outputs: '<item:minecraft:nether_star>'
+[11:43:29.386][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:netherrack_from_cinder_flour_compacting' that outputs: '<item:minecraft:netherrack>'
+[11:43:29.387][INFO][CraftTweaker]: Adding 'create:compacting' recipe, with name: 'crafttweaker:tuff_from_deepslate_compacting' that outputs: '<item:minecraft:tuff> * 2'
+[11:43:29.387][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:diamond_crushing' that outputs: '<item:minecraft:diamond>'
+[11:43:29.387][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:coarse_dirt_crushing' that outputs: '<item:minecraft:dirt> * 2'
+[11:43:29.388][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:quartz_crushing' that outputs: '<item:create:experience_nugget>'
+[11:43:29.388][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:lazurite_crushing' that outputs: '<item:minecraft:lapis_lazuli> * 2'
+[11:43:29.388][INFO][CraftTweaker]: Adding 'create:crushing' recipe, with name: 'crafttweaker:calcite_crushing' that outputs: '<item:minecraft:calcite>'
+[11:43:29.388][INFO][CraftTweaker]: Adding 'create:haunting' recipe, with name: 'crafttweaker:crimson_leaf_haunting' that outputs: '<item:minecraft:nether_wart_block>'
+[11:43:29.389][INFO][CraftTweaker]: Adding 'create:haunting' recipe, with name: 'crafttweaker:crimson_log_haunting' that outputs: '<item:minecraft:crimson_stem>'
+[11:43:29.389][INFO][CraftTweaker]: Adding 'create:haunting' recipe, with name: 'crafttweaker:end_stone_haunting' that outputs: '<item:minecraft:end_stone>'
+[11:43:29.389][INFO][CraftTweaker]: Adding 'create:haunting' recipe, with name: 'crafttweaker:warped_wart_haunting' that outputs: '<item:minecraft:warped_wart_block>'
+[11:43:29.389][INFO][CraftTweaker]: Adding 'create:haunting' recipe, with name: 'crafttweaker:warped_stem_haunting' that outputs: '<item:minecraft:warped_stem>'
+[11:43:29.389][INFO][CraftTweaker]: Adding 'create:haunting' recipe, with name: 'crafttweaker:bone_block_haunting' that outputs: '<item:minecraft:calcite>'
+[11:43:29.390][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:asurine_mixing' that outputs: '<item:create:asurine> * 3'
+[11:43:29.390][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:coarse_dirt_mixing' that outputs: '<item:minecraft:coarse_dirt> * 2'
+[11:43:29.390][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:crimsite_mixing' that outputs: '<item:create:crimsite> * 3'
+[11:43:29.391][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:ochre_froglight_mixing' that outputs: '<item:minecraft:ochre_froglight> * 2'
+[11:43:29.391][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:pearlescent_froglight_mixing' that outputs: '<item:minecraft:pearlescent_froglight> * 2'
+[11:43:29.391][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:verdant_froglight_mixing' that outputs: '<item:minecraft:verdant_froglight> * 2'
+[11:43:29.391][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:obsidian_liquid_mixing' that outputs: '<item:minecraft:obsidian>'
+[11:43:29.391][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:ochrum_mixing' that outputs: '<item:create:ochrum> * 4'
+[11:43:29.392][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:veridium_mixing' that outputs: '<item:create:veridium> * 3'
+[11:43:29.392][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:egg_mixing' that outputs: '<item:minecraft:egg>'
+[11:43:29.392][INFO][CraftTweaker]: Adding 'create:mixing' recipe, with name: 'crafttweaker:gilded_blackstone_mixing' that outputs: '<item:minecraft:gilded_blackstone>'
+[11:43:29.392][INFO][CraftTweaker]: Adding 'create:pressing' recipe, with name: 'crafttweaker:deepslate_pressing' that outputs: '<item:minecraft:cobbled_deepslate>'
+[11:43:29.393][INFO][CraftTweaker]: Adding 'create:pressing' recipe, with name: 'crafttweaker:green_dye_pressing' that outputs: '<item:minecraft:green_dye>'
+[11:43:29.393][INFO][CraftTweaker]: Adding 'create:splashing' recipe, with name: 'crafttweaker:dripstone_washing' that outputs: '<item:minecraft:dripstone_block>'
+[11:43:29.393][INFO][CraftTweaker]: Adding 'create:splashing' recipe, with name: 'crafttweaker:limestone_to_zinc_washing' that outputs: '<item:create:crushed_raw_zinc>'
+[11:43:29.394][INFO][CraftTweaker]: Adding 'create:splashing' recipe, with name: 'crafttweaker:blazeburner_washing' that outputs: '<item:create:empty_blaze_burner>'
+[11:43:29.394][INFO][CraftTweaker]: Adding 'create:sandpaper_polishing' recipe, with name: 'crafttweaker:dripstone_sanding' that outputs: '<item:minecraft:pointed_dripstone>'
+[11:43:29.394][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:create:item_vault>'
+[11:43:29.397][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:vault' that outputs: '<item:create:item_vault> * 2'
+[11:43:29.397][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amd_drivers' that outputs: '<item:kubejs:amd_drivers>'
+[11:43:29.397][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_helmet>'
+[11:43:29.400][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_chestplate>'
+[11:43:29.400][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_leggings>'
+[11:43:29.401][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_boots>'
+[11:43:29.401][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_shovel>'
+[11:43:29.401][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_pickaxe>'
+[11:43:29.401][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_axe>'
+[11:43:29.401][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_hoe>'
+[11:43:29.402][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:minecraft:netherite_sword>'
+[11:43:29.402][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_helmet>'
+[11:43:29.404][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_chestplate>'
+[11:43:29.405][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_leggings>'
+[11:43:29.406][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_boots>'
+[11:43:29.407][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_sword>'
+[11:43:29.409][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_pickaxe>'
+[11:43:29.410][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_shovel>'
+[11:43:29.411][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_axe>'
+[11:43:29.412][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:obsidianequipment:obsidian_hoe>'
+[11:43:29.413][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_helmet_smithing' that outputs: '<item:minecraft:netherite_helmet>'
+[11:43:29.414][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_chestplate_smithing' that outputs: '<item:minecraft:netherite_chestplate>'
+[11:43:29.414][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_leggings_smithing' that outputs: '<item:minecraft:netherite_leggings>'
+[11:43:29.414][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_boots_smithing' that outputs: '<item:minecraft:netherite_boots>'
+[11:43:29.414][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_sword_smithing' that outputs: '<item:minecraft:netherite_sword>'
+[11:43:29.414][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_pickaxe_smithing' that outputs: '<item:minecraft:netherite_pickaxe>'
+[11:43:29.415][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_shovel_smithing' that outputs: '<item:minecraft:netherite_shovel>'
+[11:43:29.415][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_axe_smithing' that outputs: '<item:minecraft:netherite_axe>'
+[11:43:29.415][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:netherite_hoe_smithing' that outputs: '<item:minecraft:netherite_hoe>'
+[11:43:29.415][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_helmet_smithing' that outputs: '<item:obsidianequipment:obsidian_helmet>'
+[11:43:29.415][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_chestplate_smithing' that outputs: '<item:obsidianequipment:obsidian_chestplate>'
+[11:43:29.416][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_leggings_smithing' that outputs: '<item:obsidianequipment:obsidian_leggings>'
+[11:43:29.416][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_boots_smithing' that outputs: '<item:obsidianequipment:obsidian_boots>'
+[11:43:29.416][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_sword_smithing' that outputs: '<item:obsidianequipment:obsidian_sword>'
+[11:43:29.416][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_pickaxe_smithing' that outputs: '<item:obsidianequipment:obsidian_pickaxe>'
+[11:43:29.416][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_shovel_smithing' that outputs: '<item:obsidianequipment:obsidian_shovel>'
+[11:43:29.417][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_axe_smithing' that outputs: '<item:obsidianequipment:obsidian_axe>'
+[11:43:29.417][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:obsidian_hoe_smithing' that outputs: '<item:obsidianequipment:obsidian_hoe>'
+[11:43:29.417][INFO][CraftTweaker]: Adding: [clutter:white_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.418][INFO][CraftTweaker]: Adding: [clutter:light_gray_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.418][INFO][CraftTweaker]: Adding: [clutter:gray_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.418][INFO][CraftTweaker]: Adding: [clutter:black_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.418][INFO][CraftTweaker]: Adding: [clutter:brown_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.418][INFO][CraftTweaker]: Adding: [clutter:red_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.419][INFO][CraftTweaker]: Adding: [clutter:orange_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.419][INFO][CraftTweaker]: Adding: [clutter:yellow_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.419][INFO][CraftTweaker]: Adding: [clutter:lime_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.419][INFO][CraftTweaker]: Adding: [clutter:green_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.420][INFO][CraftTweaker]: Adding: [clutter:cyan_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.420][INFO][CraftTweaker]: Adding: [clutter:light_blue_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.420][INFO][CraftTweaker]: Adding: [clutter:blue_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.420][INFO][CraftTweaker]: Adding: [clutter:purple_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.420][INFO][CraftTweaker]: Adding: [clutter:magenta_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.421][INFO][CraftTweaker]: Adding: [clutter:pink_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.421][INFO][CraftTweaker]: Adding: [clutter:crimson_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.421][INFO][CraftTweaker]: Adding: [clutter:warped_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.421][INFO][CraftTweaker]: Adding: [clutter:soul_butterfly_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.422][INFO][CraftTweaker]: Adding: [clutter:emerald_gemstone_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.422][INFO][CraftTweaker]: Adding: [clutter:diamond_gemstone_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.422][INFO][CraftTweaker]: Adding: [clutter:amethyst_gemstone_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.422][INFO][CraftTweaker]: Adding: [clutter:quartz_gemstone_elytra] to tag: <tag:items:elytraslot:elytra>
+[11:43:29.423][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:modrinth_logo_mod:modrinth_logo>'
+[11:43:29.424][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:lyn_plush' that outputs: '<item:perfectplushies:rocris_plushie>'
+[11:43:29.424][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:mama_plush' that outputs: '<item:perfectplushies:june_plushie>'
+[11:43:29.425][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:nametag' that outputs: '<item:minecraft:name_tag>'
+[11:43:29.425][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:nvidia_graphics_card' that outputs: '<item:kubejs:nvidia_graphics_card>'
+[11:43:29.425][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_1] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.425][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_2] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.426][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_3] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.426][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_4] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.426][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_5] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.426][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_6] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.426][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_7] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.426][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_8] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.427][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_9] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.427][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_10] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.427][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_11] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.427][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_12] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.427][INFO][CraftTweaker]: Adding: [phomesteadplushies:mushling_plushie] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.427][INFO][CraftTweaker]: Adding: [phomesteadplushies:mystical_elk_plushie] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.428][INFO][CraftTweaker]: Adding: [phomesteadplushies:fernling_plushie] to tag: <tag:blocks:perfectplushieapi:treasure_plushies>
+[11:43:29.428][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_1] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.428][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_2] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.428][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_3] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.428][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_4] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.428][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_5] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.429][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_6] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.429][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_7] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.429][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_8] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.429][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_9] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.429][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_10] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.429][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_11] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.430][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_12] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.430][INFO][CraftTweaker]: Adding: [phomesteadplushies:mushling_plushie] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.430][INFO][CraftTweaker]: Adding: [phomesteadplushies:mystical_elk_plushie] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.430][INFO][CraftTweaker]: Adding: [phomesteadplushies:fernling_plushie] to tag: <tag:blocks:perfectplushieapi:village_plushies>
+[11:43:29.430][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_1] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.431][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_2] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.431][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_3] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.431][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_4] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.431][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_5] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.431][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_6] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.432][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_7] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.432][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_8] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.432][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_9] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.432][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_10] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.433][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_11] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.433][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_12] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.433][INFO][CraftTweaker]: Adding: [phomesteadplushies:mushling_plushie] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.433][INFO][CraftTweaker]: Adding: [phomesteadplushies:mystical_elk_plushie] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.433][INFO][CraftTweaker]: Adding: [phomesteadplushies:fernling_plushie] to tag: <tag:items:perfectplushieapi:treasure_plushies>
+[11:43:29.434][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_1] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.434][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_2] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.434][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_3] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.434][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_4] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.435][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_5] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.435][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_6] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.435][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_7] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.435][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_8] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.435][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_9] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.436][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_10] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.436][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_11] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.436][INFO][CraftTweaker]: Adding: [phomesteadplushies:homestead_player_12] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.436][INFO][CraftTweaker]: Adding: [phomesteadplushies:mushling_plushie] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.436][INFO][CraftTweaker]: Adding: [phomesteadplushies:mystical_elk_plushie] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.437][INFO][CraftTweaker]: Adding: [phomesteadplushies:fernling_plushie] to tag: <tag:items:perfectplushieapi:village_plushies>
+[11:43:29.437][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:ram' that outputs: '<item:kubejs:ram>'
+[11:43:29.438][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:saddle' that outputs: '<item:minecraft:saddle>'
+[11:43:29.438][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:shiitake_mushroom_soup' that outputs: '<item:kubejs:shiitake_mushroom_soup>'
+[11:43:29.438][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:obsidian_template' that outputs: '<item:kubejs:obsidian_upgrade_smithing_template>'
+[11:43:29.441][INFO][CraftTweaker]: Clearing the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding "§7Netherite Upgrade" to the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding "" to the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding "§7Applies to:" to the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding "§9Obsidian Equipment" to the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding "§7Ingredients:" to the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding "§9Netherite Ingot" to the tooltip for: <item:minecraft:netherite_upgrade_smithing_template>
+[11:43:29.442][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:obsidian_template_dupe' that outputs: '<item:kubejs:obsidian_upgrade_smithing_template> * 2'
+[11:43:29.443][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:tuff' that outputs: '<item:minecraft:tuff>'
+[11:43:29.443][INFO][Script]: HEAD
+[11:43:29.443][INFO][Script]: this is a head!!!!
+[11:43:29.444][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.444][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.444][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.445][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:c:armors>
+[11:43:29.445][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.445][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.445][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.446][INFO][Script]: HEAD
+[11:43:29.446][INFO][Script]: this is a head!!!!
+[11:43:29.446][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.446][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.446][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.446][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:c:armors>
+[11:43:29.447][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.447][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.447][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.447][INFO][Script]: HEAD
+[11:43:29.447][INFO][Script]: this is a head!!!!
+[11:43:29.447][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.447][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.448][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.448][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:c:armors>
+[11:43:29.448][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.448][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.449][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.449][INFO][Script]: HEAD
+[11:43:29.449][INFO][Script]: this is a head!!!!
+[11:43:29.449][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.449][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.449][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.450][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:c:armors>
+[11:43:29.450][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.450][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.450][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.450][INFO][Script]: HEAD
+[11:43:29.451][INFO][Script]: this is a head!!!!
+[11:43:29.451][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.451][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.451][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.451][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:c:armors>
+[11:43:29.451][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.452][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.452][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.452][INFO][Script]: HEAD
+[11:43:29.452][INFO][Script]: this is a head!!!!
+[11:43:29.452][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.452][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.453][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.453][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:c:armors>
+[11:43:29.453][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.453][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.453][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.454][INFO][Script]: HEAD
+[11:43:29.454][INFO][Script]: this is a head!!!!
+[11:43:29.454][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:c:helmets>
+[11:43:29.454][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:bookshelf:helmets>
+[11:43:29.454][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:bookshelf:armor>
+[11:43:29.454][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:c:armors>
+[11:43:29.455][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.455][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.455][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_helmet] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.455][INFO][Script]: CHEST
+[11:43:29.455][INFO][Script]: this is a chestplate!!!!
+[11:43:29.455][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.456][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.456][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.456][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.456][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.456][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.457][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.457][INFO][Script]: CHEST
+[11:43:29.457][INFO][Script]: this is a chestplate!!!!
+[11:43:29.457][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.457][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.457][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.458][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.458][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.458][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.458][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.458][INFO][Script]: CHEST
+[11:43:29.459][INFO][Script]: this is a chestplate!!!!
+[11:43:29.459][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.459][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.459][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.459][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.459][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.460][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.460][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.460][INFO][Script]: CHEST
+[11:43:29.460][INFO][Script]: this is a chestplate!!!!
+[11:43:29.460][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.460][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.461][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.461][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.461][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.461][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.461][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.462][INFO][Script]: CHEST
+[11:43:29.462][INFO][Script]: this is a chestplate!!!!
+[11:43:29.462][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.462][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.462][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.462][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.463][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.463][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.463][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.463][INFO][Script]: CHEST
+[11:43:29.463][INFO][Script]: this is a chestplate!!!!
+[11:43:29.463][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.464][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.464][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.464][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.464][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.464][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.465][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.465][INFO][Script]: CHEST
+[11:43:29.465][INFO][Script]: this is a chestplate!!!!
+[11:43:29.465][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:c:chestplates>
+[11:43:29.465][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[11:43:29.465][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:bookshelf:armor>
+[11:43:29.466][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:c:armors>
+[11:43:29.466][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.466][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.466][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_chestplate] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.466][INFO][Script]: LEGS
+[11:43:29.466][INFO][Script]: these are leggings!!!!
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:c:armors>
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.467][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.468][INFO][Script]: LEGS
+[11:43:29.468][INFO][Script]: these are leggings!!!!
+[11:43:29.468][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.468][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.468][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.468][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:c:armors>
+[11:43:29.468][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.468][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.469][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.469][INFO][Script]: LEGS
+[11:43:29.469][INFO][Script]: these are leggings!!!!
+[11:43:29.469][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.469][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.469][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.469][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:c:armors>
+[11:43:29.469][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.470][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.470][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.470][INFO][Script]: LEGS
+[11:43:29.470][INFO][Script]: these are leggings!!!!
+[11:43:29.470][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.470][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.470][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.470][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:c:armors>
+[11:43:29.471][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.471][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.471][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.471][INFO][Script]: LEGS
+[11:43:29.471][INFO][Script]: these are leggings!!!!
+[11:43:29.471][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.471][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.471][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:c:armors>
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.472][INFO][Script]: LEGS
+[11:43:29.472][INFO][Script]: these are leggings!!!!
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.472][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.473][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:c:armors>
+[11:43:29.473][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.473][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.473][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.473][INFO][Script]: LEGS
+[11:43:29.473][INFO][Script]: these are leggings!!!!
+[11:43:29.473][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:c:leggings>
+[11:43:29.473][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:bookshelf:leggings>
+[11:43:29.474][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:bookshelf:armor>
+[11:43:29.474][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:c:armors>
+[11:43:29.474][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.474][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.474][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_leggings] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.474][INFO][Script]: FEET
+[11:43:29.474][INFO][Script]: these are boots!!!!
+[11:43:29.474][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:c:boots>
+[11:43:29.475][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.475][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.475][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:c:armors>
+[11:43:29.475][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.475][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.475][INFO][CraftTweaker]: Adding: [mythicupgrades:ruby_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.475][INFO][Script]: FEET
+[11:43:29.475][INFO][Script]: these are boots!!!!
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:c:boots>
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:c:armors>
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.476][INFO][CraftTweaker]: Adding: [mythicupgrades:aquamarine_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.477][INFO][Script]: FEET
+[11:43:29.477][INFO][Script]: these are boots!!!!
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:c:boots>
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:c:armors>
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.477][INFO][CraftTweaker]: Adding: [mythicupgrades:topaz_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.478][INFO][Script]: FEET
+[11:43:29.478][INFO][Script]: these are boots!!!!
+[11:43:29.478][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:c:boots>
+[11:43:29.478][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.478][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.478][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:c:armors>
+[11:43:29.478][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.478][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:jade_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.479][INFO][Script]: FEET
+[11:43:29.479][INFO][Script]: these are boots!!!!
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:c:boots>
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:c:armors>
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.479][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:ametrine_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.480][INFO][Script]: FEET
+[11:43:29.480][INFO][Script]: these are boots!!!!
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:c:boots>
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:c:armors>
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.480][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:peridot_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.481][INFO][Script]: FEET
+[11:43:29.481][INFO][Script]: these are boots!!!!
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:c:boots>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:bookshelf:boots>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:bookshelf:armor>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:c:armors>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:advancednetherite:config/pacify_phantoms>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:advancednetherite:config/pacify_endermen>
+[11:43:29.481][INFO][CraftTweaker]: Adding: [mythicupgrades:sapphire_boots] to tag: <tag:items:advancednetherite:config/pacify_piglins>
+[11:43:29.483][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_helmet>.anyDamage()
+[11:43:29.483][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_helmet>.anyDamage()
+[11:43:29.484][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:topaz_helmet> to: '1551'
+[11:43:29.484][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_chestplate>.anyDamage()
+[11:43:29.484][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_chestplate>.anyDamage()
+[11:43:29.484][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:topaz_chestplate> to: '2256'
+[11:43:29.484][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_leggings>.anyDamage()
+[11:43:29.484][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_leggings>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:topaz_leggings> to: '2115'
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_boots>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:topaz_boots>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:topaz_boots> to: '1833'
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_helmet>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_helmet>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ruby_helmet> to: '1034'
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_chestplate>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_chestplate>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ruby_chestplate> to: '1504'
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_leggings>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_leggings>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ruby_leggings> to: '1410'
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_boots>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ruby_boots>.anyDamage()
+[11:43:29.485][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ruby_boots> to: '1222'
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_helmet>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_helmet>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:peridot_helmet> to: '1034'
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_chestplate>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_chestplate>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:peridot_chestplate> to: '1504'
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_leggings>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_leggings>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:peridot_leggings> to: '1410'
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_boots>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:peridot_boots>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:peridot_boots> to: '1222'
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_helmet>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_helmet>.anyDamage()
+[11:43:29.486][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:jade_helmet> to: '1034'
+[11:43:29.486][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_chestplate>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_chestplate>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:jade_chestplate> to: '1504'
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_leggings>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_leggings>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:jade_leggings> to: '1410'
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_boots>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:jade_boots>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:jade_boots> to: '1222'
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_helmet>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_helmet>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:aquamarine_helmet> to: '1034'
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_chestplate>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_chestplate>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:aquamarine_chestplate> to: '1504'
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_leggings>.anyDamage()
+[11:43:29.487][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_leggings>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:aquamarine_leggings> to: '1410'
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_boots>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:aquamarine_boots>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:aquamarine_boots> to: '1222'
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_helmet>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_helmet>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:sapphire_helmet> to: '1034'
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_chestplate>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_chestplate>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:sapphire_chestplate> to: '1504'
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_leggings>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_leggings>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:sapphire_leggings> to: '1410'
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_boots>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:sapphire_boots>.anyDamage()
+[11:43:29.488][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:sapphire_boots> to: '1222'
+[11:43:29.488][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_helmet>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_helmet>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ametrine_helmet> to: '1034'
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_chestplate>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_chestplate>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ametrine_chestplate> to: '1504'
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_leggings>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_leggings>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ametrine_leggings> to: '1410'
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_boots>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Modifying Attributes of: <item:mythicupgrades:ametrine_boots>.anyDamage()
+[11:43:29.489][INFO][CraftTweaker]: Set the value of Max Damage on <item:mythicupgrades:ametrine_boots> to: '1222'
+[11:43:29.490][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:topaz_helmet>'
+[11:43:29.490][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:topaz_chestplate>'
+[11:43:29.490][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:topaz_leggings>'
+[11:43:29.490][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:topaz_boots>'
+[11:43:29.491][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ruby_helmet>'
+[11:43:29.491][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ruby_chestplate>'
+[11:43:29.491][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ruby_leggings>'
+[11:43:29.491][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ruby_boots>'
+[11:43:29.491][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:peridot_helmet>'
+[11:43:29.491][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:peridot_chestplate>'
+[11:43:29.492][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:peridot_leggings>'
+[11:43:29.492][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:peridot_boots>'
+[11:43:29.492][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:jade_helmet>'
+[11:43:29.492][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:jade_chestplate>'
+[11:43:29.492][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:jade_leggings>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:jade_boots>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:aquamarine_helmet>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:aquamarine_chestplate>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:aquamarine_leggings>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:aquamarine_boots>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:sapphire_helmet>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:sapphire_chestplate>'
+[11:43:29.493][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:sapphire_leggings>'
+[11:43:29.494][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:sapphire_boots>'
+[11:43:29.494][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ametrine_helmet>'
+[11:43:29.494][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ametrine_chestplate>'
+[11:43:29.494][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ametrine_leggings>'
+[11:43:29.494][INFO][CraftTweaker]: Removing 'smithing' recipes with output: '<item:mythicupgrades:ametrine_boots>'
+[11:43:29.494][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:topaz_helmet_smithing' that outputs: '<item:mythicupgrades:topaz_helmet>'
+[11:43:29.495][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:topaz_chestplate_smithing' that outputs: '<item:mythicupgrades:topaz_chestplate>'
+[11:43:29.495][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:topaz_leggings_smithing' that outputs: '<item:mythicupgrades:topaz_leggings>'
+[11:43:29.495][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:topaz_boots_smithing' that outputs: '<item:mythicupgrades:topaz_boots>'
+[11:43:29.495][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ruby_helmet_smithing' that outputs: '<item:mythicupgrades:ruby_helmet>'
+[11:43:29.495][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ruby_chestplate_smithing' that outputs: '<item:mythicupgrades:ruby_chestplate>'
+[11:43:29.495][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ruby_leggings_smithing' that outputs: '<item:mythicupgrades:ruby_leggings>'
+[11:43:29.496][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ruby_boots_smithing' that outputs: '<item:mythicupgrades:ruby_boots>'
+[11:43:29.496][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:peridot_helmet_smithing' that outputs: '<item:mythicupgrades:peridot_helmet>'
+[11:43:29.496][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:peridot_chestplate_smithing' that outputs: '<item:mythicupgrades:peridot_chestplate>'
+[11:43:29.496][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:peridot_leggings_smithing' that outputs: '<item:mythicupgrades:peridot_leggings>'
+[11:43:29.496][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:peridot_boots_smithing' that outputs: '<item:mythicupgrades:peridot_boots>'
+[11:43:29.497][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:jade_helmet_smithing' that outputs: '<item:mythicupgrades:jade_helmet>'
+[11:43:29.497][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:jade_chestplate_smithing' that outputs: '<item:mythicupgrades:jade_chestplate>'
+[11:43:29.497][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:jade_leggings_smithing' that outputs: '<item:mythicupgrades:jade_leggings>'
+[11:43:29.497][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:jade_boots_smithing' that outputs: '<item:mythicupgrades:jade_boots>'
+[11:43:29.497][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:aquamarine_helmet_smithing' that outputs: '<item:mythicupgrades:aquamarine_helmet>'
+[11:43:29.498][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:aquamarine_chestplate_smithing' that outputs: '<item:mythicupgrades:aquamarine_chestplate>'
+[11:43:29.498][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:aquamarine_leggings_smithing' that outputs: '<item:mythicupgrades:aquamarine_leggings>'
+[11:43:29.498][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:aquamarine_boots_smithing' that outputs: '<item:mythicupgrades:aquamarine_boots>'
+[11:43:29.498][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:sapphire_helmet_smithing' that outputs: '<item:mythicupgrades:sapphire_helmet>'
+[11:43:29.498][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:sapphire_chestplate_smithing' that outputs: '<item:mythicupgrades:sapphire_chestplate>'
+[11:43:29.499][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:sapphire_leggings_smithing' that outputs: '<item:mythicupgrades:sapphire_leggings>'
+[11:43:29.499][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:sapphire_boots_smithing' that outputs: '<item:mythicupgrades:sapphire_boots>'
+[11:43:29.499][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ametrine_helmet_smithing' that outputs: '<item:mythicupgrades:ametrine_helmet>'
+[11:43:29.499][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ametrine_chestplate_smithing' that outputs: '<item:mythicupgrades:ametrine_chestplate>'
+[11:43:29.499][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ametrine_leggings_smithing' that outputs: '<item:mythicupgrades:ametrine_leggings>'
+[11:43:29.499][INFO][CraftTweaker]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:ametrine_boots_smithing' that outputs: '<item:mythicupgrades:ametrine_boots>'
+[11:43:29.500][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:spelunkery:iron_pick_on_a_stick>'
+[11:43:29.504][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_barley' that outputs: '<item:brewery:beer_barley>'
+[11:43:29.505][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_haley' that outputs: '<item:brewery:beer_haley>'
+[11:43:29.505][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_hops' that outputs: '<item:brewery:beer_hops>'
+[11:43:29.505][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_nettle' that outputs: '<item:brewery:beer_nettle>'
+[11:43:29.505][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_oat' that outputs: '<item:brewery:beer_oat>'
+[11:43:29.506][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_wheat' that outputs: '<item:brewery:beer_wheat>'
+[11:43:29.506][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[11:43:29.511][INFO][CraftTweaker]: CraftTweaker reload complete!
+[11:43:29.511][INFO][CraftTweaker]: This reload was made possible by Ncc1702 and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

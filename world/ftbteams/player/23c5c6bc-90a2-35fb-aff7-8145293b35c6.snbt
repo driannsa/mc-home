@@ -1,0 +1,15 @@
+{
+	id: "23c5c6bc-90a2-35fb-aff7-8145293b35c6"
+	type: "player"
+	player_name: "driannsa"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "driannsa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

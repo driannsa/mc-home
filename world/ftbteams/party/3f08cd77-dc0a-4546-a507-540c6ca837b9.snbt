@@ -1,0 +1,23 @@
+{
+	id: "3f08cd77-dc0a-4546-a507-540c6ca837b9"
+	type: "party"
+	owner: "23c5c6bc-90a2-35fb-aff7-8145293b35c6"
+	ranks: {
+		bb86b40d-f740-39c8-afd6-e6b364e256f9: "member"
+		23c5c6bc-90a2-35fb-aff7-8145293b35c6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "VOZTER"
+		"ftbteams:description": "ORANG HITAM"
+		"ftbteams:color": "#55FFFF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1763296594014L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"driannsa\"}]}" }
+		{ from: "23c5c6bc-90a2-35fb-aff7-8145293b35c6", date: 1763296594018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ShenZ\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1763296603337L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ShenZ\"}]}" }
+		{ from: "bb86b40d-f740-39c8-afd6-e6b364e256f9", date: 1763296786333L, text: "{\"text\":\"test\"}" }
+	]
+	extra: { }
+}
