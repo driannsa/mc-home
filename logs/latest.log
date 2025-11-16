@@ -3335,3 +3335,14 @@ Caused by: java.lang.ClassNotFoundException: me.pandamods.fallingtrees.compat.Ja
 [17:02:52] [Server thread/INFO]: ShenZ left the game
 [17:02:52] [Server thread/INFO]: Updating all forceload tickets for bb86b40d-f740-39c8-afd6-e6b364e256f9
 [17:02:52] [Server thread/INFO]: Saving worlds
+[17:03:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[17:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:03:33] [Server thread/INFO]: Stopping IO worker...
+[17:03:33] [Server thread/INFO]: Stopped IO worker!
