@@ -1,0 +1,15 @@
+{
+	id: "31be9388-9526-39c9-b11c-4b1f01b2bd45"
+	type: "player"
+	player_name: "Shenziie"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Shenziie"
+		"ftbteams:description": ""
+		"ftbteams:color": "#91FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

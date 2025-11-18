@@ -4,6 +4,7 @@
 	owner: "23c5c6bc-90a2-35fb-aff7-8145293b35c6"
 	ranks: {
 		bb86b40d-f740-39c8-afd6-e6b364e256f9: "member"
+		31be9388-9526-39c9-b11c-4b1f01b2bd45: "member"
 		23c5c6bc-90a2-35fb-aff7-8145293b35c6: "owner"
 	}
 	properties: {
@@ -18,6 +19,8 @@
 		{ from: "23c5c6bc-90a2-35fb-aff7-8145293b35c6", date: 1763296594018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ShenZ\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1763296603337L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ShenZ\"}]}" }
 		{ from: "bb86b40d-f740-39c8-afd6-e6b364e256f9", date: 1763296786333L, text: "{\"text\":\"test\"}" }
+		{ from: "23c5c6bc-90a2-35fb-aff7-8145293b35c6", date: 1763448574613L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Shenziie\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1763448579264L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Shenziie\"}]}" }
 	]
 	extra: { }
 }

@@ -1,0 +1,7 @@
+{
+	warps: {
+		librarian: { dim: "minecraft:overworld", x: -616, y: 78, z: 83, time: 1763465495184L, xRot: 16.114397f, yRot: 72.293884f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}
